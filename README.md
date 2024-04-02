@@ -10,7 +10,7 @@ This was for a project for Cornell's Introduction to Computer Graphics course. T
 
 I have an interactable program for defining the parameters of this shading, and that will be linked here later as well as the final deliverable for the project.
 
-![catacombs_logo](/assets/catacombs.png){:class="img-responsive" width=20%}
+![catacombs_logo](/assets/catacombs.png){:class="img-responsive" width="20%"}
 ### My involvement
 I am the project lead for this game, though its development wouldn't be possible without my amazing teammates (Allen Chen, Justin Guo, Yanran Li, Joaquin Rivera, Amy Williams, Claire Yun, and Yihan Zhao). In addition to my duties as project lead (i.e., general organizational and managerial tasks), I did a good deal of programming for the project. This project came to be as a game for Cornell's Introduction to Computer Game Architecture course, and I would like to give a big thanks to Walker White and Traci Nathans-Kelley for their insight and advice.
 #### High Concept Statement: You’re Tabby, an orange street cat who came upon an ancient tomb while roaming the streets of Thebes, but Anubis himself forbade your entry. Don’t let that stop you; venture deep into the catacombs, pouncing on and assuming control over supernatural minions, all while causing chaos and foiling the will of the gods!
@@ -27,4 +27,4 @@ For now, here is a level mockup to show some of our assets. I will also be posti
 
 
 
-Sorry for the poor formatting on this website, I'm not really a frontend dev ¯\_(ツ)_/¯
+Sorry for the poor formatting on this website, I'm not really a frontend dev ¯\\_(ツ)_/¯
