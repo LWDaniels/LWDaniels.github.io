@@ -32,10 +32,12 @@ This was for a project for Cornell's Introduction to Computer Graphics course. T
 ![cell_shaded_dragon_on_black](/assets/cell_shaded_dragon.png){:class="img-responsive"}
 ![cell_shaded_dragon_on_white](/assets/cell_shaded_dragon2.png){:class="img-responsive"}
 
-I have an interactable program for defining the parameters of this shading, and that will be linked here later as well as the final deliverable for the project.
+You *can* interact with the actual project on [this page](https://lwdaniels.github.io/4620-final-project/) (if you have trouble with it running, you may want to make sure you have hardware acceleration enabled in your browser), but given that it is primarily a technical prototype, the actual game isn't particularly fun. It is heavily inspired by *Guitar Hero* and you gain points by clicking on the animals right as they hit the rings.  
+If you want to instead focus on the cell/toon shading (which I would recommend), you can go to [this page](https://lwdaniels.github.io/cell-shading/). Please fiddle with the sliders as you please. If you want to replicate the look above, start with these parameters:
+![cell_shading_settings](/assets/cell_shading_settings.png){:class="img-responsive"}
+
+If you like shaders and want to look at the ones I wrote for this, you can look [here](https://github.com/LWDaniels/LWDaniels.github.io/tree/main/cell-shading/shaders/cellshader). Please note that this was my first experience writing shaders and there is a lot I would change if I were to revisit this project (both with my actual code and the process of toon/cell shading as a whole).
 
 ## Raytracing and Refraction
 ![raytracing_render](/assets/final_render.png){:class="img-responsive"}
 
-
-Sorry for the poor formatting on this website; I'm not really a frontend dev ¯\\_(ツ)_/¯
