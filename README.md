@@ -34,7 +34,7 @@ This was for a project for Cornell's Introduction to Computer Graphics course. T
 
 You *can* interact with the actual project on [this page](https://lwdaniels.github.io/4620-final-project/) (if you have trouble with it running, you may want to make sure you have hardware acceleration enabled in your browser), but given that it is primarily a technical prototype, the actual game isn't particularly fun. It is heavily inspired by *Guitar Hero* and you gain points by clicking on the animals right as they hit the rings.  
 If you want to instead focus on the cell/toon shading (which I would recommend), you can go to [this page](https://lwdaniels.github.io/cell-shading/). Please fiddle with the sliders as you please. If you want to replicate the look above, start with these parameters:
-![cell_shading_settings](/assets/cell_shading_settings.png){:class="img-responsive"}
+![cell_shading_settings](/assets/cell_shading_settings.png){:class="img-responsive" width:"150%"}
 
 If you like shaders and want to look at the ones I wrote for this, you can look [here](https://github.com/LWDaniels/LWDaniels.github.io/tree/main/cell-shading/shaders/cellshader). Please note that this was my first experience writing shaders and there is a lot I would change if I were to revisit this project (both with my actual code and the process of toon/cell shading as a whole).
 
