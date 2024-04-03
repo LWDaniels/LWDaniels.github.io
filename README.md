@@ -29,7 +29,7 @@ For now, here is a level mockup to show some of our assets. I will also be posti
 # Computer Graphics
 ## Cell/Toon shaders
 
-This was for a project for Cornell's Introduction to Computer Graphics course. This was part of a group project, though much of my responsibility for the project was in writing OpenGL shaders to stylize the game assets. I ended up going with a cell/toon shading approach which outlines the characters and quantizes their colors to emulate a cartoonish aesthetic. These are somewhat difficult to notice in the final product, so here are isolated screenshots below using the Stanford Asian Dragon model. This project was coded in TypeScript, though the shaders were coded OpenGL (.glsl).  
+This was for a project for Cornell's Introduction to Computer Graphics course. This was part of a group project, though much of my responsibility for the project was in writing shaders to stylize the game assets. I ended up going with a cell/toon shading approach which outlines the characters and quantizes their colors to emulate a cartoonish aesthetic. These are somewhat difficult to notice in the final product, so here are isolated screenshots below using the Stanford Asian Dragon model. This project was coded in TypeScript, though the shaders were coded in GLSL.  
 ![cell_shaded_dragon_on_black](/assets/cell_shaded_dragon.png){:class="img-responsive"}
 ![cell_shaded_dragon_on_white](/assets/cell_shaded_dragon2.png){:class="img-responsive"}
 
