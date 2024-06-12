@@ -4,7 +4,7 @@
 ### If you want any further information, please email me at lawrencedanielsjr@gmail.com
 
 # Games
-## [![Catacombs](assets/catacombs.png)]{:class="img-responsive" width="50%"}(https://lwdaniels.github.io/catacombs/)
+## [![Catacombs](assets/catacombs.png){:class="img-responsive" width="50%"}](https://lwdaniels.github.io/catacombs/)
 ## more coming soon!
 
 # Computer Graphics
