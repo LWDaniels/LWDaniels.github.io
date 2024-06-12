@@ -23,6 +23,6 @@ I am the project lead for this game, though its development wouldn't be possible
 
 *Catacombs* is coded in Java using the LibGDX engine.
 
-#### Previews
+#### Other info
 
 *Catacombs* is currently available via the [GDIAC website](https://gdiac.cs.cornell.edu/gdiac/showcase/gallery/catacombs/) and will soon be available via Steam (for free).
