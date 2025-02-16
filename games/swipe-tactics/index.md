@@ -6,10 +6,13 @@ This is a project for Cornell's Advanced Game Design course (CS/INFO 4152). As o
 Our game will be released in late spring/early summer 2025 with releases on IOS and Android.
 
 An image from our nondigital prototype:
-![nondigital_prototype](/assets/swipe_nondigital.png){:class="img-responsive"}
+
+![nondigital_prototype](/assets/swipe_nondigital.png){:class="img-responsive" width="50%"}
 
 A screenshot from an early digital prototype:
-![gameplay_prototype](/assets/swipe_gameplay_prototype.png){:class="img-responsive"}
+
+![gameplay_prototype](/assets/swipe_gameplay_prototype.png){:class="img-responsive" width="50%"}
 
 My team for this project:
+
 ![team_roster](/assets/team_4.png){:class="img-responsive"}
