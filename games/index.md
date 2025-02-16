@@ -8,6 +8,8 @@
 A project I did with David Babazadeh (currently an ML Master's student at Berkeley).
 
 The theme for the jam was "Built to Scale," so we made a game where you have to resize two objects in order to get them to be the correct relative scale. We both shared programming responsibilities, I did the art, and he did the music. The jam was four days long, and this project was done in Unity. Unfortunately, we made a mistake at the very last moment and didn't submit properly to the game jam, but you can still play the game [here on itch.io](https://summedup.itch.io/close-enough). I think the game is rather fun and clever for what it is, and I think you could get some good laughs out of it.
+
+
 ![close_enough_title_screen](/assets/close_enough_title.png){:class="img-responsive" width="50%"}
 ![close_enough_hippo_v_capybara](/assets/close_enough_round_2.png){:class="img-responsive" width="50%"}
 ### Various DGA Game Jams
