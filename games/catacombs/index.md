@@ -2,7 +2,6 @@
 
 ### [View on the GDIAC website (contains download links)](https://gdiac.cs.cornell.edu/gdiac/showcase/gallery/catacombs/)
 
-Steam link will be provided soon
 
 ### Awards
 #### Most Polished PC Game | GDIAC Showcase
