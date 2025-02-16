@@ -5,6 +5,7 @@ This was a project for Cornell's Computer Graphics Practicum course. The goal wa
 Our effect pipeline is detailed below:
 ![effect_pipeline_slide](/assets/effect_pipeline.png){:class="img-responsive"} 
 Basically, we take in a render texture from Unity and process it a bit to find things like areas of high/low detail. We then create color and heightmap textures by applying brush strokes based on our earlier processing (we tend to apply smaller brush strokes in higher density in high detail areas, and brush strokes attempt to follow the "contours" or gradient of the image). We then apply our color texture to a plane in front of the camera and deform it according to our heightmap texture. This allows us to use the built-in lighting systems in Unity and customize our scene greatly (for example, we can set up a museum scene with lights and occluders that move around in that scene while the "painting" on the wall has its own full, moving scene). 
+
 My responsibilities for this project included writing the majority of the brush stroke processing, placement, and orientation logic, as well as optimization of the pipeline (our early attempts were VERY slow, and I was able to eek out a 10x speedup). Much of this speedup was in downscaling intermediary textures (we are only drawing so many brush strokes, after all) and better handling CPU-GPU memory management.
 Here are some images demonstrating our effect:
 ![lab_cat_processed](/assets/lab_cat_post_process.png){:class="img-responsive"}

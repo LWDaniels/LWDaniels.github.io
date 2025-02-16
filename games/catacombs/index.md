@@ -25,3 +25,8 @@ I am the project lead for this game, though its development wouldn't have been p
 ### Other info
 
 *Catacombs* is currently available via the [GDIAC website](https://gdiac.cs.cornell.edu/gdiac/showcase/gallery/catacombs/) and will soon be available via Steam (for free).
+
+### Images
+![catacombs_level_3](/assets/cat_level_3.png){:class="img-responsive" width="30%"}
+![catacombs_comic](/assets/cat_comic.png){:class="img-responsive" width="30%"}
+![catacombs_level_select](/assets/cat_level_select.png){:class="img-responsive" width="30%"}
