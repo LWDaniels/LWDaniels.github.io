@@ -9,7 +9,7 @@ At the annual Game Devlopment Initiative at Cornell Showcase, *Catacombs* won th
 
 ### My involvement
 
-I am the project lead for this game, though its development wouldn't have been possible without my amazing teammates (Allen Chen, Justin Guo, Yanran Li, Joaquin Rivera, Amy Williams, Claire Yun, and Yihan Zhao). In addition to my duties as project lead (i.e., general organizational and managerial tasks), I did a good deal of programming for the project. This project came to be as a game for Cornell's Introduction to Computer Game Architecture course, and I would like to give a big thanks to Walker White and Traci Nathans-Kelley for their insight and advice.
+I was the project lead for this game, though its development wouldn't have been possible without my amazing teammates (Allen Chen, Justin Guo, Yanran Li, Joaquin Rivera, Amy Williams, Claire Yun, and Yihan Zhao). In addition to my duties as project lead (i.e., general organizational and managerial tasks), I did a good deal of programming for the project. This project came to be as a game for Cornell's Introduction to Computer Game Architecture course, and I would like to give a big thanks to Walker White and Traci Nathans-Kelley for their insight and advice.
 
 > ### High Concept Statement
 > In *Catacombs*, you control Tabby, an orange street cat on his way to visit a recently-passed friend in the afterlife. Unfortunately, Osiris himself forbade your entry to the underworld and ordered his minions to patrol its entrance. Don't let that stop you; venture deep into the catacombs, pouncing on and assuming control over supernatural minions, all while causing chaos and foiling the will of the gods!
