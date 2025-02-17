@@ -7,4 +7,4 @@
 
 # [Graphics](https://lwdaniels.github.io/graphics/)
 
-# Other
+<!-- # Other -->
