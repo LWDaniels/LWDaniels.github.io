@@ -1,6 +1,7 @@
 ## ![catacombs_logo](/assets/catacombs.png){:class="img-responsive" width="30%"}
 
-### [View on the GDIAC website (contains download links)](https://gdiac.cs.cornell.edu/gdiac/showcase/gallery/catacombs/)
+### [View it on Steam](https://store.steampowered.com/app/3017800/Catacombs/)
+### [View on the GDIAC website](https://gdiac.cs.cornell.edu/gdiac/showcase/gallery/catacombs/)
 
 
 ### Awards
@@ -9,7 +10,7 @@ At the annual Game Devlopment Initiative at Cornell Showcase, *Catacombs* won th
 
 ### My involvement
 
-I was the project lead for this game, though its development wouldn't have been possible without my amazing teammates (Allen Chen, Justin Guo, Yanran Li, Joaquin Rivera, Amy Williams, Claire Yun, and Yihan Zhao). In addition to my duties as project lead (i.e., general organizational and managerial tasks), I did a good deal of programming for the project. This project came to be as a game for Cornell's Introduction to Computer Game Architecture course, and I would like to give a big thanks to Walker White and Traci Nathans-Kelley for their insight and advice.
+I was the project lead for this game, though its development wouldn't have been possible without my amazing teammates (Allen Chen, Justin Guo, Yanran Li, Joaquin Rivera, Amy Williams, Claire Yun, and Yihan Zhao). In addition to my duties as project lead (e.g., running group meetings, assigning tasks, and general managerial work), I did a good deal of programming for the project. This project came to be as a project for Cornell's Introduction to Computer Game Architecture course, and I would like to give a big thanks to Walker White and Traci Nathans-Kelley for their insight and advice.
 
 > ### High Concept Statement
 > In *Catacombs*, you control Tabby, an orange street cat on his way to visit a recently-passed friend in the afterlife. Unfortunately, Osiris himself forbade your entry to the underworld and ordered his minions to patrol its entrance. Don't let that stop you; venture deep into the catacombs, pouncing on and assuming control over supernatural minions, all while causing chaos and foiling the will of the gods!
@@ -21,10 +22,6 @@ I was the project lead for this game, though its development wouldn't have been 
 ### Technical Details
 
 *Catacombs* is coded in Java using the LibGDX engine. 
-
-### Other info
-
-*Catacombs* is currently available via the [GDIAC website](https://gdiac.cs.cornell.edu/gdiac/showcase/gallery/catacombs/) and will soon be available via Steam (for free).
 
 ### Images
 ![catacombs_level_3](/assets/cat_level_3.png){:class="img-responsive" width="30%"}
