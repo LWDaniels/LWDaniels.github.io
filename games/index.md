@@ -18,6 +18,7 @@ I've competed in 2 DGA (Cornell Development in Games Club) game jams thus far, a
 The theme was "You are the Weapon," and we made a physics-driven game where you are a beyblade-like top with weapons growing out of you. You need to assemble the best assortment of weapons to beat your opponent. Our game was heavily inspired by autobattlers like *The Bazaar* and *Team Fight Tactics*.
 
 Our gameplay came out a bit underbaked, but it was a worthwhile learning experience for us all. My teammates were Anthony Langer (art and UI) and Oren Dror (music). I did the programming and game engine work for this game, and it was done in Unity.
+
 ![spin_to_win_menu](/assets/spin_to_win_menu.png){:class="img-responsive" width="50%"}
 ![spin_to_win_gameplay](/assets/spin_to_win_gameplay.png){:class="img-responsive" width="50%"}
 
