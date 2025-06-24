@@ -1,5 +1,4 @@
 # Swipe Tactics
-
 Swipe Tactics (name subject to change) is a mobile strategy game inspired by *Clash Royale*, *UFO 50*'s *Attactics*, and RTS games.
 
 This is a project for Cornell's Advanced Game Design course (CS/INFO 4152). As of right now (2/17/25 is when I'm writing this), we are still in very early development.

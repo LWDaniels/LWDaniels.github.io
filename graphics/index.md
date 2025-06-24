@@ -1,4 +1,3 @@
-# Computer Graphics
 ## Painterly/Non-photorealistic Rendering
 
 This was a project for Cornell's Computer Graphics Practicum course. The goal was to create a stylistic, real-time post-processing effect for Unity which results in an impressionist-inspired, painterly scene.
