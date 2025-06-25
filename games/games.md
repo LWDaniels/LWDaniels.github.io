@@ -1,4 +1,6 @@
-# Games
+---
+title: Games
+---
 ## Larger Projects (click through to their pages)
 ### [![Catacombs](/assets/catacombs.png){:class="img-responsive" width="50%"}](https://lwdaniels.github.io/games/catacombs/)
 ### [Swipe Tactics (Temporary Title)](https://lwdaniels.github.io/games/swipe-tactics)

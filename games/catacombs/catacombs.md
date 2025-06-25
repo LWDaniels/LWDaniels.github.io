@@ -1,3 +1,6 @@
+---
+title: Catacombs
+---
 ## ![catacombs_logo](/assets/catacombs.png){:class="img-responsive" width="30%"}
 
 ### [View it on Steam](https://store.steampowered.com/app/3017800/Catacombs/)
