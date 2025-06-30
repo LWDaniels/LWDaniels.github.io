@@ -21,7 +21,7 @@ This was for a project for Cornell's Introduction to Computer Graphics course. T
 ![cell_shaded_dragon_on_black](/assets/cell_shaded_dragon.png){:class="img-responsive"}
 ![cell_shaded_dragon_on_white](/assets/cell_shaded_dragon2.png){:class="img-responsive"}
 
-You *can* interact with the final project on [this page](https://lwdaniels.github.io/graphics/4620-final-project/), but I would instead suggest that you view [this page](https://lwdaniels.github.io/graphics/cell-shading/) as to focus on my contributions to the project. I advise fiddling with the sliders on the right; if you want to replicate the look above, start with parameters similar to these:  
+You *can* interact with the final project on [this page](/graphics/4620-final-project/index.html), but I would instead suggest that you view [this page](/graphics/cell-shading/index.html) as to focus on my contributions to the project. I advise fiddling with the sliders on the right; if you want to replicate the look above, start with parameters similar to these:  
 ![cell_shading_settings](/assets/cell_shading_settings.png){:class="img-responsive" width:"50%"}
 
 If you like shaders and want to look at the ones I wrote for this, you can look [here](https://github.com/LWDaniels/LWDaniels.github.io/tree/main/cell-shading/shaders/cellshader). Please note that this was my first experience writing shaders and there is a lot I would change if I were to revisit this project (both with my actual code and the process of toon/cell shading as a whole).

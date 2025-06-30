@@ -32,7 +32,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - index.md
   - games/games.md
   - graphics/graphics.md
 

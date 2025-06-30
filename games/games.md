@@ -4,7 +4,7 @@ title: Games
 ## Larger Projects (click through to their pages)
 ### [![Catacombs](/assets/catacombs.png){:class="img-responsive" width="50%"}](/games/catacombs/catacombs.html)
 ### [Apathia](/games/apathia/apathia.html)
-
+### More coming soon!
 ## Game Jams
 ### Close Enough (GMTK Game Jam 2024)
 A project I did with a close friend, David Babazadeh.
