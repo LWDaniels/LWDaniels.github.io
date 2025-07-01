@@ -2,7 +2,7 @@
 layout: home
 title: Welcome
 ---
-## This website holds my portfolio of games and computer graphics work. Please look around and enjoy them, as well as the notes I have on their development.
+## This website holds my portfolio of games and computer graphics work. Please click on their pages on the navigation bar to take a look at those projects and my notes on their development.
 #### If you have any questions about these or upcoming projects (there are always more in the works), please shoot me an email!
 
 
