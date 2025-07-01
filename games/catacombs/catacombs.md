@@ -1,7 +1,9 @@
-## ![catacombs_logo](/assets/catacombs.png){:class="img-responsive" width="30%"}
+---
+path: games/catacombs/
+---
+## ![catacombs_logo](/assets/catacombs.png){:class="img-responsive" width="50%"}
 
 ### [View it on Steam](https://store.steampowered.com/app/3017800/Catacombs/)
-### [View on the GDIAC website](https://gdiac.cs.cornell.edu/gdiac/showcase/gallery/catacombs/)
 
 
 ### Awards
@@ -21,9 +23,9 @@ I was the project lead for this game, though its development wouldn't have been 
 
 ### Technical Details
 
-*Catacombs* is coded in Java using the LibGDX engine. 
+*Catacombs* is coded in Java using the LibGDX engine. Other tools were used for development such as Aseprite, Procreate, and Tiled.
 
 ### Images
-![catacombs_level_3](/assets/cat_level_3.png){:class="img-responsive" width="30%"}
-![catacombs_comic](/assets/cat_comic.png){:class="img-responsive" width="30%"}
-![catacombs_level_select](/assets/cat_level_select.png){:class="img-responsive" width="30%"}
+![catacombs_level_3](/assets/cat_level_3.png){:class="img-responsive" width="50%"}
+![catacombs_comic](/assets/cat_comic.png){:class="img-responsive" width="50%"}
+![catacombs_level_select](/assets/cat_level_select.png){:class="img-responsive" width="50%"}
