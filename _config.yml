@@ -28,6 +28,7 @@ github_username:  LWDaniels
 
 # Build settings
 theme: minima
+# remote_theme: 
 plugins:
   - jekyll-feed
 
